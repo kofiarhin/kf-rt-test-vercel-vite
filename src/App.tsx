@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="landing-page">
       <header className="hero">
-        <h1>EscoVisualz Photography</h1>
+        <h1>EscoVisualz Multimedia</h1>
         <p>Capturing real moments with emotion and light.</p>
         <a href="#portfolio" className="cta-button">
           View Portfolio
